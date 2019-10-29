@@ -102,6 +102,15 @@
     echo "<br> Good...</br>Meaning stript was not crashed by errors...</br>";
     ?>	
         
+   //display links to subfolders
+  for($i = 0; $i < $v; $i++){
+	  //echo "<br><a href='#'>" . $dirs[13] .  "</a>";
+	  echo "<br><a style='color:white;' href=" .$dirs[$i] . ">" . $dirs[$i] . "</a>" ; 
+  }
+  //echo "Hello " . $dirs[3];
+  // **                                                                                  **
+  // **************************************************************************************
+  // **************************************************************************************
    </div>
 	   
 	 
