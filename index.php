@@ -2,7 +2,7 @@
 	<?php
     //ini_set('display_errors', 1);
     //ini_set('display_startup_errors', 1);
-    error_reporting(1);  //1-> turn on errors; 0 -> off
+    error_reporting(0);  //1-> turn on errors; 0 -> 
 	
 	
 	
